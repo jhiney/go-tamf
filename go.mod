@@ -1,3 +1,3 @@
-module github.com/jhiney/go-tamf
+module github.com/jhiney/gotamf
 
 go 1.17
